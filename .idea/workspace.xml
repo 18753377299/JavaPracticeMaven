@@ -2,6 +2,207 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51522d3-0455-4ec2-a376-ef80cd368c51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/map/MapTransferUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/map/PositionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/WordOrPdf/Docx2PDFConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/WordOrPdf/XDocReportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/day08/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/day08/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/day08/bianTai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/day08/kebiancanshu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/day08/zengqiangFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/ReadDoc/ReadDoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/ReadDoc/ReadDocFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/ReadDoc/ReadDocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/ReadDoc/test/XwpfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/CallWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/proxymode/ProxyMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/2017版财产险风控模板（核保专用兼职版）.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/aaaa.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/aaaa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/aaaa0.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/aaaa1.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/aaaa2.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/aaaa222.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/abc.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/dddd (2).ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/dddd.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/dddd1.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/docx/abc.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/docx/abcDE.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/docx/document.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/docx/document.xml.rels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/docx/documentTemp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/fkzzPage.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/template/专职风控报告2.0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/ApacheHttpClientExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/OpenOfficeToPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/UpdateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/UpdateDataOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/ApacheHttpClientExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/HttpPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/DocxToPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/Html2Pdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/Word2Html.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/XmlToDocx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/DocxToPdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/DocxToPdfMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/InputDocx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/trimTest/TrimTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/response/AjaxResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/response/AjaxResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/po/Gps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/po/Gps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/po/GridValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/po/GridValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/request/RiskRequestVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/request/RiskRequestVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/response/AjaxResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/response/AjaxResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/response/RiskGradeVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/response/RiskGradeVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/response/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/response/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/utils/DateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/utils/FileUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/utils/FileUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/utils/JsonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/utils/JsonUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/utils/NumberUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/utils/NumberUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/utils/RiskCommonMethodUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/utils/RiskCommonMethodUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/common/utils/map/JdbcUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/common/utils/map/JdbcUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/vo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vo/User_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/vo/User_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/Axe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/Axe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/mianshi/topic_1_1/UniqueChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/mianshi/topic_1_1/UniqueChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/mianshi/topic_1_2/RangeStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/mianshi/topic_1_2/RangeStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/ReverseInteger_7/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/ReverseInteger_7/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/AddTwoNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/AddTwoNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/CountPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/CountPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/LeetCode/suanfa/TwoSum_1/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/UseOtherClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/UseOtherClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr03$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr03$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr04$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr04$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr05$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr05$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr07$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr07$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr07$Mgr07Holder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr07$Mgr07Holder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr08$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr08$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/singleton/Mgr08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/strategy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/strategy/Sorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/shejimoshi/strategy/Sorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/ScriptEngine/ScriptEngineJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/ScriptEngine/ScriptEngineJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/StringSplice/StringMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/StringSplice/StringMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/StringSplice/StringSplice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/StringSplice/StringSplice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/abstractclassInterface/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/abstractclassInterface/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/abstractclassInterface/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/abstractclassInterface/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/ArgsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/ArgsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/InitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/InitArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/ReplaceArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/ReplaceArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/SsytemArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/SsytemArrayCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/array/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/bigdecimal/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/bigdecimal/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/compare/EqualsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/compare/EqualsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/cycleFor/ShuiXianHuaShu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/cycleFor/ShuiXianHuaShu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/cycleFor/TwoFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/cycleFor/TwoFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/CalendarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/CalendarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/DateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/DateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/DateTransfer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/DateTransfer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/SearchDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/SearchDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/TimeStampTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/date/TimeStampTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/digui/DiGuiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/digui/DiGuiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/duotai/DA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/duotai/DA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/duotai/DB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/duotai/DB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/duotai/DuoTai.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/duotai/DuoTai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/enumTest/SwitchStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/enumTest/SwitchStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/exam/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/exam/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/exception/ExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/exception/ExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Comparable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Comparable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/GenericDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fanxing/Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/file/ExportJsonToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/file/ExportJsonToFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/file/ReadFileContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/file/ReadFileContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fileOperate/FileReadFromTxt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fileOperate/FileReadFromTxt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/fileOperate/FileWriteToTxt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/fileOperate/FileWriteToTxt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/forFile/NineToNine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/forFile/NineToNine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpGetSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpGetSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpGetSendTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpGetSendTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpPostSend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpPostSend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpPostSendImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpPostSendImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpUrlToBase64.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/HttpUrlToBase64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/ReadUrl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/ReadUrl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/SendPostRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/http/SendPostRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/inttype/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/inttype/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/inttype/Happy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/inttype/Happy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/inttype/IntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/inttype/IntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_10M.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_10M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_10M_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_10M_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_7M.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_7M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_8M.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_8M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_YB7M.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jdbc/OracleToOracle_YB7M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/jiandanpaixu/MaoPaoSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/jiandanpaixu/MaoPaoSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/json/JsonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/json/JsonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/json/JsonTransfer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/json/JsonTransfer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/json/ObjectMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/json/ObjectMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/AsList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/AsList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/ClearRepeatList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/ClearRepeatList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/HashCodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/HashCodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/History.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/HistoryId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/HistoryId.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/InitList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/InitList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/ListRemoveTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/ListRemoveTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/ListTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/ListTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/SessionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/SessionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/listFile/SetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapSort$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapSort$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapSort$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapUpdate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapUpdate$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapUpdate$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapUpdate$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/map/MapUpdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/InnerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/InnerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/Outer$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/OuterInner$InnerOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/OuterInner$InnerOuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/OuterInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/OuterInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/OuterVisitInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/OuterVisitInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/SourceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/SourceDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/SourceInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/SourceInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/SourceOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/SourceOuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/StaticInnerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/StaticInnerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/StaticOuter$StaticInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/StaticOuter$StaticInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/StaticOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/StaticOuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/neibulei/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/number/NumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/number/NumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/pattern/NumberUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/pattern/NumberUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/pattern/PhoneFormatCheckUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/pattern/PhoneFormatCheckUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/MoreThreadKind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/MoreThreadKind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/MoreThreadone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/MoreThreadone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/OnlyRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/OnlyRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/OnlyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/OnlyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/ShareMyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/ShareMyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/ShareThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/ShareThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/ThreadDeadLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/ThreadDeadLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/UpdateDataOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/thread_10/UpdateDataOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/simple/whileFile/LabelWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/simple/whileFile/LabelWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaPractice/test/ArgsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaPractice/test/ArgsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/AppTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
@@ -53,21 +254,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/net/sf/dozer/dozer/5.5.1/dozer-5.5.1-sources.jar!/org/dozer/util/CollectionUtils.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+            <state relative-caret-position="372">
+              <caret line="264" column="16" lean-forward="true" selection-start-line="264" selection-start-column="16" selection-end-line="264" selection-end-column="16" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4050">
-              <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
-            </state>
-          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -91,6 +284,11 @@
       <find>OBTAIN_REMOTE_BINARY_SERVLET</find>
       <find>updateTableAuditFlag</find>
       <find>empty</find>
+      <find>httpcomponents</find>
+      <find>encodeBase64String</find>
+      <find>httpClient</find>
+      <find>converter</find>
+      <find>jodconverter</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -100,21 +298,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Main/ProductManager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/common/utils/MapUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/test/ArgsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/mianshi/topic_1_1/UniqueChar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/abstractclassInterface/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/array/InitArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/bigdecimal/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/array/ReplaceArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/InitList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/jdbc/simple/listFile/SessionInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/jdbc/OracleToOracle_YB7M.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/utils/map/JdbcUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/json/ObjectMapperTest.java" />
@@ -126,7 +314,6 @@
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/pushDataMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/po/GridValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/UpdateDataOne.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/request/RiskRequestVo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/response/RiskGradeVo.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpPostSend.java" />
@@ -146,6 +333,27 @@
         <option value="$PROJECT_DIR$/../Main/ProductManager/pom.xml" />
         <option value="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/bill/BillCreatorTemplate.java" />
         <option value="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/WrappedStdOutImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/test/XDocReportTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/WordOrPdf/Docx2PDFConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/proxymode/ProxyMode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/CallWebPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/response/AjaxResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/ReadDoc/ReadDoc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/HttpPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/ApacheHttpClientExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/DocxToPdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/Word2Html.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/utils/map/MapTransferUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/utils/map/PositionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/Html2Pdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/XmlToDocx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/day08/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/test/OpenOfficeToPdf.java" />
       </list>
     </option>
   </component>
@@ -163,39 +371,81 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="JavaPracticeMaven" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ProductManager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="100" />
-    <option name="y" value="77" />
-    <option name="width" value="1625" />
-    <option name="height" value="939" />
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1832" />
+    <option name="height" value="929" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pdfc2/server/zuul-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/javaPractice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.36873156" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -205,11 +455,11 @@
       <recent name="javaPractice.simple.bigdecimal" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\com\common" />
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\com\common\po" />
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice" />
       <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple" />
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple\array" />
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\com\example\vo" />
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\com\common\utils\map" />
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple\thread_10" />
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple\listFile" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,7 +474,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JsonTest">
+  <component name="RunManager" selected="Application.PositionUtil">
     <configuration name="JsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPractice.simple.json.JsonTest" />
       <module name="JavaPracticeMaven" />
@@ -264,19 +514,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnlyRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.thread_10.OnlyRunner" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.simple.thread_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OnlyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPractice.simple.thread_10.OnlyThread" />
       <module name="JavaPracticeMaven" />
@@ -290,20 +527,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PositionUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.common.utils.map.PositionUtil" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.common.utils.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.OnlyRunner" />
       <item itemvalue="Application.OnlyThread" />
       <item itemvalue="Application.JsonTransfer" />
       <item itemvalue="Application.NumberTest" />
       <item itemvalue="Application.JsonTest" />
+      <item itemvalue="Application.PositionUtil" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PositionUtil" />
         <item itemvalue="Application.JsonTest" />
         <item itemvalue="Application.NumberTest" />
         <item itemvalue="Application.JsonTransfer" />
         <item itemvalue="Application.OnlyThread" />
-        <item itemvalue="Application.OnlyRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -329,18 +579,18 @@
       <workItem from="1607829954074" duration="653000" />
       <workItem from="1607908018510" duration="119000" />
       <workItem from="1607909430610" duration="7541000" />
-      <workItem from="1607949357598" duration="602000" />
+      <workItem from="1607949357598" duration="6909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36589000" />
+    <option name="totallyTimeSpent" value="42896000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="65" width="1300" height="751" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8504065" weight="0.28824475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8504065" visible="true" weight="0.2855228" />
       <window_info id="Structure" order="1" sideWeight="0.1495935" side_tool="true" weight="0.25962263" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -350,7 +600,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14814815" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70731705" weight="0.40680712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41233766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,17 +609,18 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.1260997" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.29268292" side_tool="true" weight="0.40680712" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.06969206" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.1458671" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32841823" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.41823056" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.34896943" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -390,401 +641,521 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPracticeMaven$PositionUtil.ic" NAME="PositionUtil Coverage Results" MODIFIED="1607957119154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.common.utils.map.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/DecompressionZipUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/DHencrypt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-899">
-          <caret line="104" column="20" lean-forward="true" selection-start-line="104" selection-start-column="20" selection-end-line="104" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2835#2836#0" expanded="true" />
-            <element signature="e#2853#2854#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/security/MessageDigest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/MD5Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/QRCodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1120">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/RestfulRequestContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/cache/ProdCenterCacheManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/excel/FieldReflectionUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/excel/ExcelUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="58" column="20" lean-forward="true" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/date/SimpleDateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1521">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/export/CustomWrapFlushOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/export/ExportExcelUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/export/JxlsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/export/OpenExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/pdfserver/PDFServerTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.16.RELEASE/spring-context-5.0.16.RELEASE-sources.jar!/org/springframework/context/ApplicationContextAware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/spring/ServiceSpringFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-760">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="e#1999#2000#0" expanded="true" />
-            <element signature="e#2048#2049#0" expanded="true" />
-            <element signature="e#2212#2213#0" expanded="true" />
-            <element signature="e#2262#2263#0" expanded="true" />
-            <element signature="e#2397#2398#0" expanded="true" />
-            <element signature="e#2440#2441#0" expanded="true" />
-            <element signature="e#3407#3408#0" expanded="true" />
-            <element signature="e#3460#3461#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/validation/ValidationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-430">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/DragonNestTestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="47" column="7" lean-forward="true" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-          <folding>
-            <element signature="e#3134#3135#0" expanded="true" />
-            <element signature="e#3160#3161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/ControllerBaseSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/dao/approval/CPZX_DbpmmainDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="66" column="36" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/resources/mapper/approval/CPZX_DbpmmainDao.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/array/ArgsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
-          <caret line="269" column="6" selection-start-line="269" selection-start-column="6" selection-end-line="269" selection-end-column="6" />
+          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/bean/SimpleBeanUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/array/SsytemArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1840">
-          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-          <folding>
-            <element signature="e#471#487#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/service/approval/CPZX_DbpmmainService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/cycleFor/TwoFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="520" column="13" lean-forward="true" selection-start-line="520" selection-start-column="13" selection-end-line="520" selection-end-column="13" />
+        <state relative-caret-position="39">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/bill/BillCreatorTemplate.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/date/CalendarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="171">
+          <caret line="114" column="48" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/date/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="608" column="19" lean-forward="true" selection-start-line="608" selection-start-column="19" selection-end-line="608" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/approval/CPZX_DbpmmainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="116" column="9" lean-forward="true" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+        <state relative-caret-position="231">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/audit/ActivitiBPMAuditController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/date/SearchDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="231">
+          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/exam/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/duotai/DuoTai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/pattern/NumberUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/audit/AuditController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.16.RELEASE/spring-tx-5.0.16.RELEASE-sources.jar!/org/springframework/transaction/PlatformTransactionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/bmp/conf/ClauseRiskProcessConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/bmp/conf/ActivitiProcessEngineConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="63" column="18" lean-forward="true" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/basicinfoconfig/CPZX_DaccountInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-570">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/map/AnalysisProductMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1810">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/map/ColumnSelectProductExcelMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-790">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/map/ColumnSelectRiskLabelExcelMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/WrappedStdOutImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/DataSourseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1810">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/config/MybatisConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/config/DataSourceAop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/config/DataBaseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/schema/driskGroup/CPZX_Drisk_Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1971">
+        <state relative-caret-position="150">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/websocket/WebsocketService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/po/Gps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-790">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/Servlet/OfficeServer.java">
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6990">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="2799">
+          <caret line="1056" column="17" lean-forward="true" selection-start-line="1056" selection-start-column="17" selection-end-line="1056" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/basicdata/CPZX_DelementViewController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/proxymode/ProxyMode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="300">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar!/org/apache/commons/collections4/CollectionUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1593">
-          <caret line="1480" column="39" selection-start-line="1480" selection-start-column="36" selection-end-line="1480" selection-end-column="43" />
+        <state relative-caret-position="210">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/docx4j/docx4j/3.2.1/docx4j-3.2.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2610">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.example:JavaPracticeMaven:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.example:JavaPracticeMaven:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.example:JavaPracticeMaven:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-beans:jar:4.2.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-context:jar:4.2.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-context:jar:4.2.2.RELEASE/org.springframework:spring-aop:jar:4.2.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-context:jar:4.2.2.RELEASE/org.springframework:spring-aop:jar:4.2.2.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-core:jar:4.2.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-core:jar:4.2.2.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-expression:jar:4.2.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:4.2.2.RELEASE/org.springframework:spring-web:jar:4.2.2.RELEASE</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">net.sf.ezmorph:ezmorph:jar:1.0.6</node>
+            <node x="" y="">net.sf.ezmorph:ezmorph:jar:1.0.6/commons-lang:commons-lang:jar:2.3</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:jdk15:2.0</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:jdk15:2.0/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:jdk15:2.0/commons-collections:commons-collections:jar:3.2</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:jdk15:2.0/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:jdk15:2.0/commons-logging:commons-logging:jar:1.1</node>
+            <node x="" y="">net.sf.json-lib:json-lib:jar:jdk15:2.0/net.sf.ezmorph:ezmorph:jar:1.0.2</node>
+            <node x="" y="">oro:oro:jar:2.0.8</node>
+            <node x="" y="">org.codehaus.groovy:groovy-all:jar:1.7.5</node>
+            <node x="" y="">org.json:json:jar:20180130</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.2.1</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.2.58</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5</node>
+            <node x="" y="">org.mybatis:mybatis:jar:3.2.2</node>
+            <node x="" y="">org.mybatis:mybatis-spring:jar:1.2.1</node>
+            <node x="" y="">commons-io:commons-io:jar:2.0.1</node>
+            <node x="" y="">apache-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="" y="">apache-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4</node>
+            <node x="" y="">apache-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.2</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.plutext:jaxb-svg11:jar:1.0.2</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.plutext:jaxb-xslfo:jar:1.0.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.plutext:jaxb-xmldsig-core:jar:1.0.0</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/net.engio:mbassador:jar:1.1.10</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.slf4j:jcl-over-slf4j:jar:1.7.5</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.slf4j:slf4j-log4j12:jar:1.7.5</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/commons-lang:commons-lang:jar:2.4</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/commons-codec:commons-codec:jar:1.3</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/commons-io:commons-io:jar:1.3.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:xmlgraphics-commons:jar:1.5</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:xmlgraphics-commons:jar:1.5/commons-io:commons-io:jar:2.0.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-svg-dom:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-svg-dom:jar:1.7/org.apache.xmlgraphics:batik-anim:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-svg-dom:jar:1.7/org.apache.xmlgraphics:batik-css:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-svg-dom:jar:1.7/org.apache.xmlgraphics:batik-dom:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-svg-dom:jar:1.7/org.apache.xmlgraphics:batik-parser:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-svg-dom:jar:1.7/org.apache.xmlgraphics:batik-util:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-bridge:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7/org.apache.xmlgraphics:batik-js:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-xml:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-awt-util:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-gvt:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-transcoder:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:batik-svggen:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-extension:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/org.apache.xmlgraphics:batik-ext:jar:1.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.xmlgraphics:fop:jar:1.1/commons-io:commons-io:jar:2.0.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.avalon.framework:avalon-framework-api:jar:4.3.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.avalon.framework:avalon-framework-impl:jar:4.3.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/xalan:xalan:jar:2.7.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/net.arnx:wmf2svg:jar:0.9.0</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.apache.poi:poi-scratchpad:jar:3.8</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.antlr:antlr-runtime:jar:3.3</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.antlr:stringtemplate:jar:3.2.1</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/org.antlr:stringtemplate:jar:3.2.1/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.docx4j:docx4j:jar:3.2.1/com.google.guava:guava:jar:17.0</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/org.apache.poi:poi:jar:3.8</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/org.apache.poi:poi:jar:3.8/commons-codec:commons-codec:jar:1.5</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/org.apache.poi:poi-ooxml-schemas:jar:3.8</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/org.apache.poi:poi-ooxml-schemas:jar:3.8/org.apache.xmlbeans:xmlbeans:jar:2.3.0</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/org.apache.poi:poi-ooxml-schemas:jar:3.8/org.apache.xmlbeans:xmlbeans:jar:2.3.0/stax:stax-api:jar:1.0.1</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.apache.poi:poi-ooxml:jar:3.8/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2</node>
+            <node x="" y="">fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:jar:1.0.4</node>
+            <node x="" y="">fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:jar:1.0.4/fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.core:jar:1.0.4</node>
+            <node x="" y="">fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:jar:1.0.4/fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.core:jar:1.0.4/org.apache.poi:poi-ooxml:jar:3.9</node>
+            <node x="" y="">fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:jar:1.0.4/fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.core:jar:1.0.4/org.apache.poi:ooxml-schemas:jar:1.1</node>
+            <node x="" y="">fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:jar:1.0.4/fr.opensagres.xdocreport:fr.opensagres.xdocreport.itext.extension:jar:1.0.4</node>
+            <node x="" y="">org.apache.pdfbox:pdfbox:jar:2.0.13</node>
+            <node x="" y="">org.apache.pdfbox:pdfbox:jar:2.0.13/org.apache.pdfbox:fontbox:jar:2.0.13</node>
+            <node x="" y="">org.apache.pdfbox:pdfbox:jar:2.0.13/org.apache.pdfbox:fontbox:jar:2.0.13/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.apache.pdfbox:pdfbox:jar:2.0.13/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.apache.pdfbox:xmpbox:jar:2.0.13</node>
+            <node x="" y="">org.apache.pdfbox:xmpbox:jar:2.0.13/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.freemarker:freemarker:jar:2.3.25-incubating</node>
+            <node x="" y="">com.lowagie:itext:jar:2.1.7</node>
+            <node x="" y="">com.lowagie:itext:jar:2.1.7/bouncycastle:bcmail-jdk14:jar:138</node>
+            <node x="" y="">com.lowagie:itext:jar:2.1.7/bouncycastle:bcprov-jdk14:jar:138</node>
+            <node x="" y="">com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38</node>
+            <node x="" y="">com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcprov-jdk14:jar:1.38</node>
+            <node x="" y="">com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcmail-jdk14:jar:1.38</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.0.3</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.0.3/org.apache.httpcomponents:httpcore:jar:4.0.1</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.0.3/commons-codec:commons-codec:jar:1.2</node>
+            <node x="" y="">commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="" y="">commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.16.18</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.swagger:swagger-annotations:jar:1.5.13</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.swagger:swagger-models:jar:1.5.13</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.swagger:swagger-models:jar:1.5.13/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.5</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.swagger:swagger-models:jar:1.5.13/org.slf4j:slf4j-api:jar:1.7.22</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0/io.springfox:springfox-core:jar:2.7.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0/io.springfox:springfox-core:jar:2.7.0/net.bytebuddy:byte-buddy:jar:1.6.14</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0/io.springfox:springfox-core:jar:2.7.0/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spi:jar:2.7.0/io.springfox:springfox-core:jar:2.7.0/org.slf4j:slf4j-api:jar:1.7.24</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-schema:jar:2.7.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-swagger-common:jar:2.7.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-swagger-common:jar:2.7.0/com.google.guava:guava:jar:17.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-swagger-common:jar:2.7.0/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/org.reflections:reflections:jar:0.9.11</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/org.reflections:reflections:jar:0.9.11/com.google.guava:guava:jar:20.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/org.reflections:reflections:jar:0.9.11/org.javassist:javassist:jar:3.21.0-GA</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/com.google.guava:guava:jar:17.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/io.springfox:springfox-spring-web:jar:2.7.0/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/com.google.guava:guava:jar:17.0</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/com.fasterxml:classmate:jar:1.3.3</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE/org.springframework:spring-beans:jar:4.0.9.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE/org.springframework:spring-context:jar:4.0.9.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE/org.springframework:spring-aop:jar:4.0.9.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="" y="">io.springfox:springfox-swagger2:jar:2.7.0/org.mapstruct:mapstruct:jar:1.1.0.Final</node>
+            <node x="" y="">io.springfox:springfox-swagger-ui:jar:2.7.0</node>
+            <node x="" y="">junit:junit:jar:4.11</node>
+            <node x="" y="">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">com.google.code.gson:gson:jar:2.8.5</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.15746063484128967" x="-549.3579365079368" y="2428.313492063492" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/response/AjaxResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/CallWebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2379">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/HashCodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.2/commons-codec-1.2.jar!/org/apache/commons/codec/binary/Base64.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.14/commons-codec-1.14-sources.jar!/org/apache/commons/codec/binary/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="574" column="43" selection-start-line="574" selection-start-column="25" selection-end-line="574" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/ReadDoc/ReadDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#61654#61655#0" expanded="true" />
-            <element signature="e#61707#61708#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/net/sf/dozer/dozer/5.5.1/dozer-5.5.1-sources.jar!/org/dozer/util/CollectionUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/HttpPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        <state relative-caret-position="210">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Collection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8-sources.jar!/org/apache/poi/hwpf/usermodel/Paragraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/DocxToPdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/Html2Pdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/Word2Html.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/XmlToDocx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/utils/map/PositionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/DocxToPdfMain.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/DocxToPdf.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/InputDocx.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/utils/map/MapTransferUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/utils/map/JdbcUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListRemoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/day08/bianTai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/test/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3810">
+          <caret line="129" column="5" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/test/OpenOfficeToPdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/test/ApacheHttpClientExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/day08/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/ApacheHttpClientExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/trimTest/TrimTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/file/ReadFileContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/utils/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="264" column="16" lean-forward="true" selection-start-line="264" selection-start-column="16" selection-end-line="264" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -837,7 +1208,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ProductManager</last-edited>
+          <last-edited>JavaPracticeMaven</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

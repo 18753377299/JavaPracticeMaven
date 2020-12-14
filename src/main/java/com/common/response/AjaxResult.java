@@ -19,5 +19,6 @@ public class AjaxResult {
 	private long status;
 	private String message;
 	private UserInfo userInfo;
+	private String 	statusText;
 	
 }
