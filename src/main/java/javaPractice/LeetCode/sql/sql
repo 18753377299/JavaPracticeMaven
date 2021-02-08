@@ -1,0 +1,60 @@
+
+---queryRiskFactoryCountTwo  --- 这个是个分公司数量
+ case "factoryReport":
+                    /*安全工厂审核通过的报告*/
+                case "factoryTask":
+                    /*安全工厂任务数量*/
+
+                case "factoryRectify":
+                    /*安全工厂隐患整改数量*/
+                case "factoryMechanism":
+                    /*安全工厂合作机构*/
+                case "factoryExpert":
+                    /*安全工厂合作专家*/
+                case "factorySort":
+                    /*安全工厂各行业报告数量*/
+                case "wisdomPolicy":
+                   /* 智慧工地各分公司保单数量*/
+                case "wisdomReport":
+                    /* 智慧工地各分公司报告数量*/
+                case "wisdomRectify":
+                    /* 智慧工地各分公司隐患整改数量*/
+
+---queryRiskStatusCount  --- 统计数量
+case "factoryReportOver":
+    /*安全工厂已完成*/
+case "factoryReportWaitUnderwrite":
+    /*安全工厂待审核*/
+case "factoryRectify":
+    /*安全工厂已整改*/
+case "factoryWaitRectify":
+    /*安全工厂待整改*/
+case "factoryWaitSurvey":
+    /*安全工厂待查勘*/
+case "factoryMechanism":
+    /*安全工厂合作机构*/
+case "factoryExpert":
+    /*安全工厂合作专家*/
+case "factoryOneMonth":
+    /*安全工厂近30日数量*/
+    // 风控和汛期模块
+case "riskReportOver":
+   /* 风控报告已完成*/
+case "riskReportWaitUnderwrite":
+    /* 风控报告待审核*/
+case "riskCheckOver":
+    /* 汛期报告已完成*/
+case "riskChecktWaitUnderwrite":
+    /* 汛期报告未处理*/
+
+case "riskFireOver":
+    /* 火灾报告已完成*/
+
+case "riskFireWaitUnderwrite":
+    /* 火灾报告待审核*/
+
+----queryRiskOrders  --- 安全工厂近30日出单量
+
+---标志位为A,B,C，标志位的作用和queryOrders中的flag作用一致。
+
+

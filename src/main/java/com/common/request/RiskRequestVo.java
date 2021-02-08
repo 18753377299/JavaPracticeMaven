@@ -12,7 +12,8 @@ import java.io.Serializable;
  * @return  */
 @Data
 public class RiskRequestVo implements Serializable{
-	
+
+
 	private static final long serialVersionUID = 1L;
 	
 //	private RiskReportMain riskReportMainVo;

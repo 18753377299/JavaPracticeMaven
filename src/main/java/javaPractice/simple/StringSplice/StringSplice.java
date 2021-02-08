@@ -25,6 +25,13 @@ public class StringSplice {
 		/*如果只有一个字段，执行split 之后也会转换为数组。*/
 		String [] newArray = newStr.split(",");
 		System.out.println("=======array========="+newArray);
+
+		long startTime = System.currentTimeMillis();
+		String token ="ABC";
+		String noOnce="123D";
+//		long startTime = System.currentTimeMillis();
+		String result = StringUtils.join(startTime,token,noOnce,startTime);
+		System.out.println("{}==>"+result);
 	}
 
 }

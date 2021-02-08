@@ -1,4 +1,4 @@
-package javaPractice.simple.thread_10;
+package javaPractice.simple.http;
 
 import org.apache.commons.httpclient.HttpStatus;
 import org.apache.http.HttpEntity;
@@ -34,7 +34,7 @@ public class ApacheHttpClientExample {
 
 	private static final String USER_AGENT = "Mozilla/5.0";
 
-	private static final String GET_URL = "http://10.10.1.156:8090/iserver/services/data-FXDT/rest/data/datasources/china/datasets/hail_hazard_scale_1km/gridValue.json?x=120.85419&y=29.81507";
+	private static final String GET_URL = "http://10.133.210.248:8001/iserver/services/data-FXDT/rest/data/datasources/china/datasets/hail_hazard_scale_1km/gridValue.json?x=120.85419&y=29.81507";
     
 	private static final String POST_URL = "http://localhost:9090/SpringMVCExample/home";
 

@@ -15,38 +15,38 @@ import java.util.List;
 * @since  主要是List方法中remove的用法
 * @return  */
 public class ListRemoveTest {
-public static void main(String[]args){
-   List books=new ArrayList();
-   books.add("aaa");
-   books.add("bbbb");
-   books.add("ccccc");
-   JSONObject audienceAll = new JSONObject();
-   JSONArray baseform = new JSONArray();
-   for(Object str: books){
-       baseform.add(str) ;
-   }
-   audienceAll.put("vtreeDelList", baseform);
-
-   System.out.println(audienceAll.toString());
-   System.out.println(StringUtils.join(books,"\",\""));
-   System.out.println(books);
-   books.remove(new A());
-   System.out.println(books);
-
-   books.remove(new A());
-   System.out.println(books);
-
-   List<String> list =new ArrayList<String>();
-   try {
-       for(String temp:list){
-           System.out.println("aaaa"+temp);
+    public static void main(String[]args){
+       List books=new ArrayList();
+       books.add("aaa");
+       books.add("bbbb");
+       books.add("ccccc");
+       JSONObject audienceAll = new JSONObject();
+       JSONArray baseform = new JSONArray();
+       for(Object str: books){
+           baseform.add(str) ;
        }
-    } catch (Exception e) {
-        // TODO: handle exception
-        e.printStackTrace();
-    }
+       audienceAll.put("vtreeDelList", baseform);
 
-}
+       System.out.println(audienceAll.toString());
+       System.out.println(StringUtils.join(books,"\",\""));
+       System.out.println(books);
+       books.remove(new A());
+       System.out.println(books);
+
+       books.remove(new A());
+       System.out.println(books);
+
+       List<String> list =new ArrayList<String>();
+       try {
+           for(String temp:list){
+               System.out.println("aaaa"+temp);
+           }
+        } catch (Exception e) {
+            // TODO: handle exception
+            e.printStackTrace();
+        }
+
+    }
 }
 
 /* 移除满足 (o==null ? get(i)==null : o.equals(get(i))) 的最低索引的元素（如果存在此类元素）

@@ -1,8 +1,8 @@
-package javaPractice.simple.file;
+package javaPractice.simple.file.readAndWrite;
 
-import java.io.FileNotFoundException;
+import io.swagger.annotations.Api;
+
 import java.io.FileOutputStream;
-import java.io.IOException;
 	/**
  * @author  作者 E-mail: 
  * @date 创建时间：2019年10月10日 下午3:47:31
@@ -10,18 +10,18 @@ import java.io.IOException;
  * @parameter 
  * @since  
  * @return  */
+@Api(value="将字符串写到文件中")
 public class ExportJsonToFile {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		try {
 			String restring="1111";
-			String filePath="E:\\1.asc";
+			String filePath="D:\\1.asc";
 			FileOutputStream fos = new FileOutputStream(filePath);
 			fos.write(restring.getBytes());
 			fos.close();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

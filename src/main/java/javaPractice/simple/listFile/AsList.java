@@ -14,6 +14,8 @@ public class AsList {
      String  [] ids = {"BX11","BX12"} ;
      String [] strArray = id.split(",");
      List<String> asStr = new ArrayList<String>(Arrays.asList(ids));
+       System.out.println(Arrays.asList(ids).contains("BX11"));
+       System.out.println(asStr.contains("BX11"));
      for (String  str: asStr) {
     	 System.out.println("========="+str);
      }

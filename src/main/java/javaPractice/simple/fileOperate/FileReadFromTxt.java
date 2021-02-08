@@ -22,7 +22,7 @@ public class FileReadFromTxt {
                 result.append(System.lineSeparator()+s);
             }
             System.out.println(result.toString());
-            br.close();    
+            br.close();
         }catch(Exception e){
             e.printStackTrace();
         }

@@ -17,7 +17,6 @@ public class FileWriteToTxt {
 			fiePath = fiePath+name;
 			writeToFile(fiePath);
 		}
-
 	}
 	/*将数据输出到文件中*/
 	public static  void writeToFile (String fiePath){

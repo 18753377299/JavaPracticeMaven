@@ -23,6 +23,7 @@ public class DiGuiApplication {
 		long endTime = System.currentTimeMillis();
 		System.out.println((endTime-startTime)/1000);
 	}
+
 	/*求组合数 add by liqiankun 20200802 begin */
 	public static double divide(double num1,double num2) {
 		return multiply(num1)/multiply(num2)/multiply(num1-num2);

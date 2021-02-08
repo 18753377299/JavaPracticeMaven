@@ -6,9 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javaPractice" />
         <module name="JavaPracticeMaven" />
-        <module name="ProductManager" />
+        <module name="javaPractice" />
       </profile>
     </annotationProcessing>
   </component>

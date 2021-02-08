@@ -11,16 +11,15 @@
 //import java.util.HashMap;
 //import java.util.Map;
 //
+//import com.common.po.Gps;
 //import org.apache.http.HttpEntity;
 //import org.apache.http.HttpResponse;
 //import org.apache.http.client.HttpClient;
 //import org.apache.http.client.methods.HttpGet;
 //import org.apache.http.impl.client.HttpClients;
 //import org.apache.http.util.EntityUtils;
-//import org.opendope.questions.Response;
 //
 //import com.alibaba.fastjson.JSON;
-//import com.vo.Gps;
 //
 //public class pushDataMap implements Runnable {
 //	public static double pi = 3.1415926535897932384626;

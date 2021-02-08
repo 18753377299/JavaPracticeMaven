@@ -1,4 +1,4 @@
-package javaPractice.simple.thread_10;
+package javaPractice.simple.http;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.conn.ConnectionKeepAliveStrategy;

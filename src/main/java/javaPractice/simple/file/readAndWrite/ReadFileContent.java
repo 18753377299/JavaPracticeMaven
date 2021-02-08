@@ -1,4 +1,6 @@
-package javaPractice.simple.file;
+package javaPractice.simple.file.readAndWrite;
+
+import io.swagger.annotations.Api;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -14,6 +16,7 @@ import java.io.InputStream;
  * @parameter 
  * @since  
  * @return  */
+@Api(value="将文件中的数据读出")
 public class ReadFileContent {
 
 	public static void main(String[] args) {

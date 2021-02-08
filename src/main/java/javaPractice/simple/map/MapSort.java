@@ -1,5 +1,7 @@
 package javaPractice.simple.map;
 
+import io.swagger.annotations.ApiOperation;
+
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedHashMap;
@@ -8,9 +10,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-
 public class MapSort {
+
     public static Map<Integer, Double> Probs = new TreeMap<Integer, Double>();
+
+    @ApiOperation(value="对map进行排序")
     public static void main(String[] args) {
     	
         Probs.put(1, 0.5);
@@ -18,7 +22,7 @@ public class MapSort {
         Probs.put(3, 0.2);
         Probs.put(4, 10.2);
         Probs = sortByValueDescending(Probs);
-        
+
         System.out.println("基于value值的降序，排序输出结果为：");
         for (Map.Entry<Integer, Double> entry : Probs.entrySet()) {
             System.out.println("key= " + entry.getKey() + " and value= " + entry.getValue());
