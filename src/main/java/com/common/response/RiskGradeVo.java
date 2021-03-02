@@ -11,6 +11,7 @@ import java.math.BigDecimal;
  * @parameter 
  * @since  
  * @return  */
+
 @Data
 public class RiskGradeVo implements Serializable{
 	
