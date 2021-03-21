@@ -5,42 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51522d3-0455-4ec2-a376-ef80cd368c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/FeiBoNaQi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/FooSemaphore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooFirstRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooSecondRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooThirdRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadMessageRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadPrintOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadPrintOrderTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/xunhuan/XunHuanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/json/JsonDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/json/RequestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ComparatorLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Main/ProductManager/ProductManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/gongGongPre_14/LongestPre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_11/LianBIao_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/FunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/StringComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/response/RiskGradeVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/response/RiskGradeVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/.settings/org.eclipse.wst.common.component" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/common/kafka/vo/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/common/kafka/vo/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/ControllerBaseSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/controller/ControllerBaseSupport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/WrappedStdOutImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/WrappedStdOutImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/config/DataBaseConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/datasource/config/DataBaseConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/service/approval/CPZX_DbpmmainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/service/approval/CPZX_DbpmmainService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/bill/BillCreatorTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/bill/BillCreatorTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/src/main/java/com/sinosoft/app/utils/common/CommonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/frame/CPZX_DframeclausekindDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/frame/CPZX_DframeclausekindDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/frame/CPZX_DframeclausekindrelationDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/frame/CPZX_DframeclausekindrelationDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/plan/CPZX_DplanDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/plan/CPZX_DplanDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/practicalaudit/ClauseAuditDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/practicalaudit/ClauseAuditDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/practicalaudit/ClauseDetailDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/practicalaudit/ClauseDetailDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/practicalaudit/RiskAuditDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main/ProductManager/target/classes/mapper/practicalaudit/RiskAuditDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/TwoSum_1/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanxing/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanxing/GenericDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,6 +26,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="183" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -74,105 +53,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_11/LianBIao_11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="1134">
+              <caret line="43" selection-start-line="43" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/stream/Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="806" column="13" selection-start-line="806" selection-start-column="13" selection-end-line="806" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/xunhuan/XunHuanTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/OnlyRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/stream/Collectors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="211" column="23" selection-start-line="211" selection-start-column="23" selection-end-line="211" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ThreadLambda.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo08InvokeCalc.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/gongGongPre_14/LongestPre.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo06Comparator.java">
+        <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            <state relative-caret-position="2727">
+              <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+                <element signature="e#223144#223145#0" expanded="true" />
+                <element signature="e#223197#223198#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ComparatorLambda.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE.jar!/org/springframework/util/CollectionUtils.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -212,12 +144,13 @@
       <find>Runnable</find>
       <find>run</find>
       <find>sort</find>
-      <find>SwitchStatus</find>
       <find>incement</find>
       <find>increment</find>
       <find>租</find>
       <find>lom</find>
       <find>map</find>
+      <find>SwitchStatus</find>
+      <find>testEnum</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -232,15 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/pushDataMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/UpdateData.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/request/RiskRequestVo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/chujisunanfa/shuzu/ArrayOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/Huiwenshu_9.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/lianbiao/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_83/LianBiao_83.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/lianbiao/ListNodeMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/lianbiao/ListNodeUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringSplice.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/ThreadDeadLock.java" />
@@ -282,7 +206,16 @@
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/json/JsonDate.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ComparatorLambda.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/xunhuan/XunHuanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/FunctionInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/StringComparator.java" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanxing/GenericDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_11/LianBIao_11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/TwoSum_1/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/gongGongPre_14/LongestPre.java" />
       </list>
     </option>
   </component>
@@ -313,11 +246,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2" />
-    <option name="y" value="31" />
-    <option name="width" value="1855" />
-    <option name="height" value="950" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="120" />
+    <option name="y" value="36" />
+    <option name="width" value="1595" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectId" id="1nUgQiUmblFT5C3g5hKRlD6mB9f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -327,111 +260,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="Stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="xunhuan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_10" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -481,13 +310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest">
-    <configuration name="ComparatorLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.thread_10.lambda.ComparatorLambda" />
+  <component name="RunManager" selected="Application.LongestPre">
+    <configuration name="FunctionInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.lambda.FunctionInterface.FunctionInterface" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.simple.thread_10.lambda.*" />
+          <option name="PATTERN" value="javaPractice.lambda.FunctionInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -495,25 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FeiBoNaQi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.FeiBoNaQi" />
+    <configuration name="LianBIao_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.lianbiao_11.LianBIao_11" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JsonDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.json.JsonDate" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.simple.json.*" />
+          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.lianbiao_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -534,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.lambda.Stream.StreamTest" />
+    <configuration name="LongestPre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.gongGongPre_14.LongestPre" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.lambda.Stream.*" />
+          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.gongGongPre_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -547,12 +363,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XunHuanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.lambda.xunhuan.XunHuanTest" />
+    <configuration name="StringComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.lambda.FunctionInterface.StringComparator" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.lambda.xunhuan.*" />
+          <option name="PATTERN" value="javaPractice.lambda.FunctionInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.ThreeSum_15.ThreeSum" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.ThreeSum_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -562,19 +391,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ListRemoveTest" />
-      <item itemvalue="Application.FeiBoNaQi" />
-      <item itemvalue="Application.JsonDate" />
-      <item itemvalue="Application.StreamTest" />
-      <item itemvalue="Application.XunHuanTest" />
-      <item itemvalue="Application.ComparatorLambda" />
+      <item itemvalue="Application.FunctionInterface" />
+      <item itemvalue="Application.StringComparator" />
+      <item itemvalue="Application.LianBIao_11" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.LongestPre" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamTest" />
-        <item itemvalue="Application.ComparatorLambda" />
-        <item itemvalue="Application.XunHuanTest" />
-        <item itemvalue="Application.JsonDate" />
-        <item itemvalue="Application.FeiBoNaQi" />
+        <item itemvalue="Application.LongestPre" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.LianBIao_11" />
+        <item itemvalue="Application.StringComparator" />
+        <item itemvalue="Application.FunctionInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -641,16 +470,26 @@
       <workItem from="1613741589906" duration="901000" />
       <workItem from="1613744639226" duration="1417000" />
       <workItem from="1614671905647" duration="1661000" />
-      <workItem from="1614695478941" duration="5960000" />
+      <workItem from="1614695478941" duration="6032000" />
+      <workItem from="1614781014719" duration="1092000" />
+      <workItem from="1614820944205" duration="1880000" />
+      <workItem from="1614845896402" duration="4000" />
+      <workItem from="1614867270244" duration="2762000" />
+      <workItem from="1614870563114" duration="2250000" />
+      <workItem from="1614906389930" duration="1420000" />
+      <workItem from="1615210666770" duration="3128000" />
+      <workItem from="1615534630660" duration="9792000" />
+      <workItem from="1615789220597" duration="1998000" />
+      <workItem from="1615856761200" duration="1758000" />
+      <workItem from="1616120785546" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153237000" />
+    <option name="totallyTimeSpent" value="179394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="25" width="1484" height="760" extended-state="0" />
-    <editor active="true" />
+    <frame x="2207" y="155" width="1274" height="706" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.1495935" side_tool="true" weight="0.25962263" />
       <window_info id="Image Layers" order="1" />
@@ -659,20 +498,20 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5007657" side_tool="true" weight="0.24851191" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.26718092" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.23970346" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4032258" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" weight="0.12417219" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6300268" visible="true" weight="0.054635763" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" weight="0.2680921" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6300268" weight="0.29912025" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.339404" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294702" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40789473" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.34427327" side_tool="true" weight="0.32210836" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.3923841" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.39186993" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.04398827" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -681,11 +520,11 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32841823" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.34712481" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4975" weight="0.34703195" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.328777" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5025" side_tool="true" weight="0.3461231" />
       <window_info anchor="right" id="BPMNPalette" order="11" />
     </layout>
   </component>
@@ -793,14 +632,35 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java</url>
-          <line>72</line>
+          <line>74</line>
           <properties />
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java</url>
+          <line>243</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/StringComparator.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPracticeMaven$LongestPre.ic" NAME="LongestPre Coverage Results" MODIFIED="1615544098821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaPractice.LeetCode.suanfa.gongGongPre_14.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/JavaPracticeMaven$ListNodeMain.ic" NAME="ListNodeMain Coverage Results" MODIFIED="1611301702681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>javaPractice.simple.lianbiao.*</FILTER>
     </SUITE>
@@ -809,105 +669,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/file/readAndWrite/ReadFileContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/FileWriteToTxt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/ShareThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-373">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/ThreadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/OnlyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadPrintRunn.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/pool/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/pool/ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="182" column="32" lean-forward="true" selection-start-line="182" selection-start-column="32" selection-end-line="182" selection-end-column="32" />
-          <folding>
-            <element signature="e#1762#1763#0" expanded="true" />
-            <element signature="e#1798#1799#0" expanded="true" />
-            <element signature="e#2032#2033#0" expanded="true" />
-            <element signature="e#2060#2061#0" expanded="true" />
-            <element signature="e#4725#4726#0" expanded="true" />
-            <element signature="e#4793#4794#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-291">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/day08/kebiancanshu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/day08/bianTai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1029,13 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fanxing/GenericDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2241">
-          <caret line="84" column="20" selection-start-line="84" selection-start-column="20" selection-end-line="84" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/json/JsonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1043,7 +797,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/FileRun/maven_repo/repository/org/springframework/spring-web/4.2.2.RELEASE/spring-web-4.2.2.RELEASE.jar!/org/springframework/http/converter/FormHttpMessageConverter.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.2.RELEASE/spring-web-4.2.2.RELEASE.jar!/org/springframework/http/converter/FormHttpMessageConverter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
@@ -1075,14 +829,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="139" column="19" lean-forward="true" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="jar://D:/FileRun/maven_repo/repository/com/alibaba/fastjson/1.2.58/fastjson-1.2.58-sources.jar!/com/alibaba/fastjson/JSON.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.58/fastjson-1.2.58-sources.jar!/com/alibaba/fastjson/JSON.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="553" column="24" selection-start-line="553" selection-start-column="24" selection-end-line="553" selection-end-column="24" />
@@ -1093,7 +847,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/FileRun/maven_repo/repository/io/swagger/swagger-annotations/1.5.13/swagger-annotations-1.5.13-sources.jar!/io/swagger/annotations/Api.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.13/swagger-annotations-1.5.13-sources.jar!/io/swagger/annotations/Api.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2376">
           <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
@@ -1110,16 +864,132 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20520">
+          <caret line="806" column="13" selection-start-line="806" selection-start-column="13" selection-end-line="806" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SwitchStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/OnlyRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3915">
+          <caret line="211" column="23" selection-start-line="211" selection-start-column="23" selection-end-line="211" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ThreadLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo08InvokeCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo06Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1-sources.jar!/org/apache/commons/collections/comparators/ComparableComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="174" column="21" lean-forward="true" selection-start-line="174" selection-start-column="21" selection-end-line="174" selection-end-column="21" />
+          <folding>
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+            <element signature="e#175306#175307#0" expanded="true" />
+            <element signature="e#175349#175350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/FunctionInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="1152" column="24" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ComparatorLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="160">
           <caret line="1232" column="22" selection-start-line="1232" selection-start-column="22" selection-end-line="1232" selection-end-column="22" />
           <folding>
             <element signature="e#47036#47037#0" expanded="true" />
@@ -1128,98 +998,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/OnlyRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="4320">
+          <caret line="175" column="9" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fanxing/GenericDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="5002" column="32" selection-start-line="5002" selection-start-column="21" selection-end-line="5002" selection-end-column="32" />
-          <folding>
-            <element signature="e#223144#223145#0" expanded="true" />
-            <element signature="e#223197#223198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="211" column="23" selection-start-line="211" selection-start-column="23" selection-end-line="211" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ThreadLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo08InvokeCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo06Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ComparatorLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="806" column="13" selection-start-line="806" selection-start-column="13" selection-end-line="806" selection-end-column="13" />
+        <state relative-caret-position="1296">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/xunhuan/XunHuanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="243">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/StringComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="378">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_11/LianBIao_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="43" selection-start-line="43" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2727">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#223144#223145#0" expanded="true" />
+            <element signature="e#223197#223198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE.jar!/org/springframework/util/CollectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/gongGongPre_14/LongestPre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
         </state>
       </provider>
     </entry>

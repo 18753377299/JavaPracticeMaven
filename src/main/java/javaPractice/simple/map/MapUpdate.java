@@ -243,7 +243,7 @@ public class MapUpdate {
 		//对枚举类型的数进行操作
 		SwitchStatus [] switchs = SwitchStatus.values();
 		for (SwitchStatus status: switchs){
-			System.out.println(status.name()); 
+			System.out.println(status.name()+":"+status.getValue()+":"+status.getDescription());
 		}
 	}
 	/*十六、tring.split(String regex)部分关键字需要转译*/

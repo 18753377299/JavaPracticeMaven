@@ -15,6 +15,8 @@ public class StreamTest {
     public static void main(String[] args) {
         String [] reqs = new String[] {"1","2","3"};
 
+        String [] b= new String[10];
+
         long count = Arrays.asList(reqs).stream().filter(x->x.length()>0).count();
         System.out.println("{}=====>"+count);
 

@@ -1,5 +1,7 @@
 package javaPractice.simple.fanxing;
 
+import io.swagger.annotations.Api;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,6 +17,7 @@ import java.util.List;
  * List<int[]>数组类型的集合、List<String>类的集合。
  * 但不存在list<byte>、list<short> 等基本类型的集合。
  * @return  */
+@Api(value="泛型的示例方法")
 public class GenericDemo {
 
 	public static void main(String[] args) {
