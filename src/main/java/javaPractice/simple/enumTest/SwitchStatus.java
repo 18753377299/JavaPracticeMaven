@@ -24,11 +24,11 @@ public enum SwitchStatus {
 			this.description = description;
 		 }
 
-			public int getValue() {
-				return value;
-			}
-		
-			public String getDescription() {
+		public int getValue() {
+			return value;
+		}
+
+		public String getDescription() {
 				return description;
 			}
 	 

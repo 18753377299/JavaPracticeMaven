@@ -1,8 +1,11 @@
 package javaPractice.simple.ScriptEngine;
 
+import io.swagger.annotations.ApiOperation;
+
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
-	/**
+
+/**
  * @author  作者 E-mail: 
  * @date 创建时间：2019年4月12日 下午5:08:02
  * @version 1.0 
@@ -11,7 +14,11 @@ import javax.script.ScriptEngineManager;
  * @return  */
 public class ScriptEngineJava {
 	public static void main(String []args){
-		
+		testAndOr();
+	}
+
+    @ApiOperation(value="进行简单的or和and的测试")
+	public static  void testAndOr(){
 		try {
 			String str = "(a or b) and c";
 			str = str.replaceAll("or", "||");
@@ -19,6 +26,7 @@ public class ScriptEngineJava {
 			System.out.println(str);
 			ScriptEngineManager manager = new ScriptEngineManager();
 			ScriptEngine engine = manager.getEngineByName("js");
+
 			engine.put("a", true);
 			engine.put("b", false);
 			engine.put("c", true);
@@ -28,6 +36,5 @@ public class ScriptEngineJava {
 			// TODO: handle exception
 			e.printStackTrace();
 		}
-		
 	}
 }

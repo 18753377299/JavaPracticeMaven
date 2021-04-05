@@ -5,8 +5,11 @@ public class Gps {
 	
 	private double wgLat;
 	private double wgLon;
- 
-	public Gps(double wgLat,double wgLon) {
+
+	public Gps() {
+	}
+
+	public Gps(double wgLat, double wgLon) {
 		setWgLon(wgLon);
 		setWgLat(wgLat);		
 	}

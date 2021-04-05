@@ -259,8 +259,6 @@
     </dependency>
     <!--  OpenOffice  end-->
 
-
-
     <!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
     <dependency>
       <groupId>org.apache.pdfbox</groupId>
@@ -376,6 +374,19 @@
       <version>2.7.0</version>
     </dependency>
     <!--Swagger-UI API文档生产工具 end -->
+    <!-- xstream文件start -->
+    <dependency>
+      <groupId>com.thoughtworks.xstream</groupId>
+      <artifactId>xstream</artifactId>
+      <version>1.4.16</version>
+    </dependency>
+    <dependency>
+      <groupId>xpp3</groupId>
+      <artifactId>xpp3_min</artifactId>
+      <version>1.1.4c</version>
+    </dependency>
+    <!-- xstream文件end -->
+
   </dependencies>
 
   <build>
