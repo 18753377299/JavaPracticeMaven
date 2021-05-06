@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaPracticeMaven:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51522d3-0455-4ec2-a376-ef80cd368c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ComposeSum_39/ComposeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ValidateBracket_20/ValidateBracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/TwoNumDivide_29/TwoNumDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/common/utils/FilePathUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/common/utils/ReflectUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SeasonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanshe/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/pattern/PathTravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/DateSingleValueConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/MyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/BeanCopyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/RomanToInterger_13/RomanToInterger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/GenerateBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/JavaEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AbstractFactoryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackAnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteAnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/FactoryMethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWorkFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWorkFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/WorkFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/Java设计模式（疯狂Java联盟版）.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/array/arrayUtils/ArrayUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Captcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifCaptcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Quant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Randoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/SpecCaptcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/common/po/Gps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/common/po/Gps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/ScriptEngine/ScriptEngineJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/ScriptEngine/ScriptEngineJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SwitchStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SwitchStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,146 +90,19 @@
     <favorites_list name="JavaPracticeMaven" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/common/utils/ReflectUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="373" column="30" lean-forward="true" selection-start-line="373" selection-start-column="30" selection-end-line="373" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/MyConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/DateSingleValueConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="921">
-              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/converters/SingleValueConverterWrapper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#629#630#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/converters/SingleValueConverter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/converters/ConverterMatcher.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/XStream.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="1065" lean-forward="true" selection-start-line="1065" selection-end-line="1065" />
-              <folding>
-                <element signature="e#52355#52356#0" expanded="true" />
-                <element signature="e#52423#52424#0" expanded="true" />
-                <element signature="e#59406#59407#0" expanded="true" />
-                <element signature="e#59469#59470#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Result</find>
-      <find>mybatis</find>
-      <find>ExcelColumnMap</find>
-      <find>ColumnMapper</find>
-      <find>restTemplateInterceptor</find>
-      <find>lang</find>
-      <find>isBlank</find>
       <find>OBTAIN_REMOTE_BINARY_SERVLET</find>
       <find>updateTableAuditFlag</find>
       <find>empty</find>
@@ -225,6 +126,13 @@
       <find>map</find>
       <find>SwitchStatus</find>
       <find>testEnum</find>
+      <find>BC</find>
+      <find>addProvider</find>
+      <find>IV</find>
+      <find>parseHexStr2Byte</find>
+      <find>keyFormat</find>
+      <find>isJavaLanguageInterface</find>
+      <find>URL</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -239,57 +147,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/file/readAndWrite/ReadFileContent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/FileReadFromTxt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/FileWriteToTxt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/AtomicInteger2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadPrintRunn.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/Foo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadMessageRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/FooChild.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/FooSemaphore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadPrintOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooFirstRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooSecondRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadFooThirdRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/PrintOrder_1114/ThreadPrintOrderTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/response/RiskGradeVo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/FeiBoNaQi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/json/RequestBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/json/JsonDate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/ComparatorLambda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/xunhuan/XunHuanTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/FunctionInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/FunctionInterface/StringComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanxing/GenericDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/Stream/StreamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_11/LianBIao_11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/TwoSum_1/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/gongGongPre_14/LongestPre.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SwitchStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SeasonEnum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/EnumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/ScriptEngine/ScriptEngineJava.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/common/utils/FilePathUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/pattern/PathTravel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ComposeSum_39/ComposeSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ValidateBracket_20/ValidateBracket.java" />
         <option value="$PROJECT_DIR$/ReadMe.md" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/TwoNumDivide_29/TwoNumDivide.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/po/Gps.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanshe/ReflectTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/common/utils/ReflectUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringIndexOf.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/MyConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/DateSingleValueConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/common/utils/BeanCopyUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/RomanToInterger_13/RomanToInterger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/lambda/JavaEight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Captcha.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/SpecCaptcha.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifCaptcha.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/array/arrayUtils/ArrayUtilsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/GenerateBracket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/TwoNumDivide_29/TwoNumDivide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/Work.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/WorkFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWorkFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWorkFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/FactoryMethodMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackCat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackDog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteCat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/CatAnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteDog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteAnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackAnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AbstractFactoryMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md" />
       </list>
     </option>
   </component>
@@ -320,11 +228,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-40" />
-    <option name="y" value="106" />
-    <option name="width" value="1737" />
-    <option name="height" value="1098" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="47" />
+    <option name="y" value="16" />
+    <option name="width" value="1740" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectId" id="1nUgQiUmblFT5C3g5hKRlD6mB9f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -364,52 +272,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-              <item name="xstream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="simple" type="462c0819:PsiDirectoryNode" />
-              <item name="xstream" type="462c0819:PsiDirectoryNode" />
-              <item name="conver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -425,25 +295,25 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36873156" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaPractice.lambda" />
       <recent name="javaPractice.simple.json" />
       <recent name="javaPractice.LeetCode.suanfa.PrintOrder_1114" />
       <recent name="com.common.utils.map" />
       <recent name="javaPractice.simple.jiandanpaixu" />
-      <recent name="javaPractice.simple.array" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\shejimoshi" />
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple\fileOperate\image" />
+      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\com\common\utils" />
       <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple" />
       <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\LeetCode\sql" />
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice" />
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\com\common\utils\map" />
-      <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\simple\thread_10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -458,13 +328,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XStreamTest">
-    <configuration name="ComposeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.ComposeSum_39.ComposeSum" />
+  <component name="RunManager" selected="Application.AbstractFactoryMain">
+    <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.shejimoshi.AbstractFactory.AbstractFactoryMain" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.ComposeSum_39.*" />
+          <option name="PATTERN" value="javaPractice.shejimoshi.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.array.arrayUtils.ArrayUtilsTest" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.simple.array.arrayUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.shejimoshi.FactoryMethod.FactoryMethodMain" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.shejimoshi.FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.two.GenerateBracket_22.GenerateBracket" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.two.GenerateBracket_22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.fileOperate.image.main.GenerateImage" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.simple.fileOperate.image.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -485,73 +407,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.fanshe.ReflectTest" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.simple.fanshe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.removeElement_27.RemoveElement" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.removeElement_27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidateBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.ValidateBracket_20.ValidateBracket" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.ValidateBracket_20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="XStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.xstream.XStreamTest" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.simple.xstream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.ListRemoveTest" />
-      <item itemvalue="Application.RemoveElement" />
-      <item itemvalue="Application.ComposeSum" />
-      <item itemvalue="Application.ValidateBracket" />
-      <item itemvalue="Application.ReflectTest" />
-      <item itemvalue="Application.XStreamTest" />
+      <item itemvalue="Application.GenerateImage" />
+      <item itemvalue="Application.ArrayUtilsTest" />
+      <item itemvalue="Application.GenerateBracket" />
+      <item itemvalue="Application.FactoryMethodMain" />
+      <item itemvalue="Application.AbstractFactoryMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.XStreamTest" />
-        <item itemvalue="Application.ReflectTest" />
-        <item itemvalue="Application.ValidateBracket" />
-        <item itemvalue="Application.ComposeSum" />
-        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.AbstractFactoryMain" />
+        <item itemvalue="Application.FactoryMethodMain" />
+        <item itemvalue="Application.GenerateBracket" />
+        <item itemvalue="Application.ArrayUtilsTest" />
+        <item itemvalue="Application.GenerateImage" />
       </list>
     </recent_temporary>
   </component>
@@ -647,14 +517,34 @@
       <workItem from="1617151216275" duration="3797000" />
       <workItem from="1617237027545" duration="2062000" />
       <workItem from="1617354099639" duration="8045000" />
+      <workItem from="1617583165853" duration="2693000" />
+      <workItem from="1617620852817" duration="596000" />
+      <workItem from="1617670242780" duration="3436000" />
+      <workItem from="1617765368231" duration="10582000" />
+      <workItem from="1617787008129" duration="13315000" />
+      <workItem from="1617842153280" duration="11772000" />
+      <workItem from="1617883236624" duration="854000" />
+      <workItem from="1617929436677" duration="29000" />
+      <workItem from="1617965828799" duration="238000" />
+      <workItem from="1618020933333" duration="238000" />
+      <workItem from="1618037489147" duration="7506000" />
+      <workItem from="1618148751325" duration="2589000" />
+      <workItem from="1618187412277" duration="786000" />
+      <workItem from="1618829311948" duration="1305000" />
+      <workItem from="1618840317519" duration="7404000" />
+      <workItem from="1618879770943" duration="8903000" />
+      <workItem from="1618919246663" duration="594000" />
+      <workItem from="1618966733718" duration="1895000" />
+      <workItem from="1619058143273" duration="1219000" />
+      <workItem from="1619147342328" duration="2402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239879000" />
+    <option name="totallyTimeSpent" value="318235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="68" y="26" width="1391" height="756" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.1495935" side_tool="true" weight="0.25962263" />
       <window_info id="Image Layers" order="1" />
@@ -663,20 +553,20 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5007657" side_tool="true" weight="0.24851191" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.26706678" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4032258" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" weight="0.051319648" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6300268" weight="0.3983871" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" weight="0.3868066" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6300268" weight="0.540146" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.339404" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37096775" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.36414254" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.34427327" side_tool="true" weight="0.32210836" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.34032258" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.24633431" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32991204" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.04398827" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -685,7 +575,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32841823" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4975" weight="0.34538153" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4975" weight="0.34450403" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -867,6 +757,108 @@
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java</url>
+          <line>250</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java</url>
+          <line>266</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/common/utils/BeanCopyUtils.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/GenerateBracket.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -887,249 +879,156 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/lianbiao_11/LianBIao_11.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/test/UpdateData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="43" selection-start-line="43" selection-end-line="44" />
+        <state relative-caret-position="1566">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/forFile/NineToNine.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/gongGongPre_14/LongestPre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SeasonEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+        <state relative-caret-position="297">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#223144#223145#0" expanded="true" />
-            <element signature="e#223197#223198#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.2.RELEASE/spring-core-4.2.2.RELEASE.jar!/org/springframework/util/CollectionUtils.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/pattern/PathTravel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Randoms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Captcha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Quant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="63" column="18" lean-forward="true" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/pattern/NumberUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/io/File.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/RomanToInterger_13/RomanToInterger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="274" column="11" selection-start-line="274" selection-start-column="11" selection-end-line="274" selection-end-column="11" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpPostSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/jre/lib/rt.jar!/sun/net/www/protocol/https/HttpsURLConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/CallWebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2349">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifCaptcha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="259" column="5" lean-forward="true" selection-start-line="259" selection-start-column="5" selection-end-line="259" selection-end-column="5" />
+        <state relative-caret-position="513">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/FileReadFromTxt.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="567">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/awt/Graphics2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="666" column="25" selection-start-line="666" selection-start-column="25" selection-end-line="666" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1-sources.jar!/org/apache/commons/lang3/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="4614" column="5" lean-forward="true" selection-start-line="4614" selection-start-column="5" selection-end-line="4614" selection-end-column="5" />
+          <folding>
+            <element signature="e#180872#180873#0" expanded="true" />
+            <element signature="e#180930#180931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/array/arrayUtils/ArrayUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ThreeSum_15/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/SpecCaptcha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="567">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/enumTest/SwitchStatus.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/common/utils/FilePathUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/response/RiskGradeVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/lambda/Demo06Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/ScriptEngine/ScriptEngineJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
-          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/TwoNumDivide_29/TwoNumDivide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ValidateBracket_20/ValidateBracket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/sql/596_超过5名学生的课">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ComposeSum_39/ComposeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/chujisunanfa/shuzu/ArrayOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringSplice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/toPdf/test/InputDocx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="386">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1138,189 +1037,285 @@
     </entry>
     <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="199" column="13" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+        <state relative-caret-position="582">
+          <caret line="166" column="5" selection-start-line="166" selection-start-column="5" selection-end-line="166" selection-end-column="5" />
           <folding>
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#20727#20728#0" expanded="true" />
+            <element signature="e#20771#20772#0" expanded="true" />
             <element signature="e#66457#66458#0" expanded="true" />
             <element signature="e#66495#66496#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringIndexOf.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/UpdateDataOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/pushDataMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5886">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/UpdateData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#2755#2756#0" expanded="true" />
-            <element signature="e#2791#2792#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/proxymode/ProxyMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/thread_10/MoreThreadKind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fanshe/ReflectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="352">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/po/Gps.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/GenerateBracket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/TwoNumDivide_29/TwoNumDivide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/chujisunanfa/shuzu/ArrayOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/strategy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/strategy/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWorkFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/Work.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteAnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/Builder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackAnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="5" selection-start-line="2" selection-start-column="22" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AbstractFactoryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="20" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWorkFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/FactoryMethodMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/WorkFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/sql/sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1431">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/common/utils/ReflectUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/XStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="1065" lean-forward="true" selection-start-line="1065" selection-end-line="1065" />
-          <folding>
-            <element signature="e#52355#52356#0" expanded="true" />
-            <element signature="e#52423#52424#0" expanded="true" />
-            <element signature="e#59406#59407#0" expanded="true" />
-            <element signature="e#59469#59470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/converters/ConverterMatcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/converters/SingleValueConverter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.16/xstream-1.4.16.jar!/com/thoughtworks/xstream/converters/SingleValueConverterWrapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#629#630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/MyConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/DateSingleValueConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="921">
-          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="373" column="30" lean-forward="true" selection-start-line="373" selection-start-column="30" selection-end-line="373" selection-end-column="30" />
-        </state>
+        <state relative-caret-position="-573" />
       </provider>
     </entry>
   </component>
@@ -1329,10 +1324,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>JavaPracticeMaven:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.36873156" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1363,7 +1360,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

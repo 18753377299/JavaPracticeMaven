@@ -3,7 +3,6 @@ package javaPractice.simple.xstream;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 import javaPractice.simple.xstream.conver.DateSingleValueConverter;
-import javaPractice.simple.xstream.conver.MyConverter;
 
 import java.util.Date;
 

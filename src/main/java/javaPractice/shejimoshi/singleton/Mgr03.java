@@ -1,6 +1,6 @@
 package javaPractice.shejimoshi.singleton;
 
-/*懒汉式：
+/**懒汉式：
  * 什么时候用到什么时候进行初始化.
  * 虽然达到了初始化的目的，但却带来了线程不安全的问题(可能不是同一个对象,同一个类的把不同对象hashcode是不同的)
 */

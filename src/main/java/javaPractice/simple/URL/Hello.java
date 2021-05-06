@@ -43,7 +43,8 @@ public class Hello{
         }
         System.out.println("");
         String urlString="http://10.10.1.61:6001/SunECM/GetImageForJJ.servlet?dHJtX2lwPWh0dHA6Ly8xMC4xMC4xLjYxOjYwMTEvU3VuVFJNL3NlcnZsZXQvR2V0SW1hZ2U/JmZpbGVfbmFtZT0vaG9tZS9taWRkbGV3YXJlL0VDTUZvbGRlci90ZW1wNjAwMS9teXNlbmQvcmlza0NvbnRyb2wvMjAxOC8wNS8zMC80Ni82Mi85QTE1Q0VDQTBFRTRGNjU4MjNDNTM2OEY1MkYwMTU0Ml8xLzQ3RjA0ODhELUZDM0QtMjk3OS1BMkQyLURBMkY4MTIxQzk4Qi5qcGc=";
-        String  imageUrl=""; 
+
+        String  imageUrl="";
         try {
 			imageUrl = URLDecoder.decode(urlString, "UTF-8");
 			System.out.println("====================="+imageUrl);
@@ -59,7 +60,7 @@ public class Hello{
 		 String strBase64 = null;
 		 AjaxResult ajaxResult = new AjaxResult();
 		 DataInputStream dataInputStream = null;
-   	 ByteArrayOutputStream outStream = null;
+   	 	 ByteArrayOutputStream outStream = null;
 	        try {
 	        	String imageUrl = "";
 	    		try {

@@ -11,13 +11,6 @@
         <module name="javaPractice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="ProductManager" target="1.8" />
-    </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ProductManager" options="-parameters" />
-    </option>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
