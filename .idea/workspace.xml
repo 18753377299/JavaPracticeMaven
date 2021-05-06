@@ -10,52 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51522d3-0455-4ec2-a376-ef80cd368c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/common/utils/BeanCopyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/RomanToInterger_13/RomanToInterger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/GenerateBracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lambda/JavaEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AbstractFactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackAnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteAnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/WhiteDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/FactoryMethodMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWorkFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWorkFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/WorkFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/Java设计模式（疯狂Java联盟版）.chm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/array/arrayUtils/ArrayUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Captcha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Encoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifCaptcha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Quant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Randoms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/SpecCaptcha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -228,9 +183,9 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="47" />
-    <option name="y" value="16" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="15" />
     <option name="width" value="1740" />
     <option name="height" value="945" />
   </component>
@@ -241,6 +196,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,12 +231,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -537,14 +501,16 @@
       <workItem from="1618966733718" duration="1895000" />
       <workItem from="1619058143273" duration="1219000" />
       <workItem from="1619147342328" duration="2402000" />
+      <workItem from="1620266080874" duration="635000" />
+      <workItem from="1620270930336" duration="1031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318235000" />
+    <option name="totallyTimeSpent" value="319901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="26" width="1391" height="756" extended-state="0" />
+    <frame x="37" y="12" width="1392" height="756" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.1495935" side_tool="true" weight="0.25962263" />
       <window_info id="Image Layers" order="1" />
@@ -553,7 +519,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5007657" side_tool="true" weight="0.24851191" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.26706678" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.27511245" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4032258" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" weight="0.3868066" />
