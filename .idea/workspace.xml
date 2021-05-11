@@ -10,7 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b51522d3-0455-4ec2-a376-ef80cd368c51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/reptile/JsoupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptileGetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptilePoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptilePostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/reptile/WebMagic/JobProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/test/RiskDangerResponseVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractice/test/ArgsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/test/ArgsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,7 +55,82 @@
     <favorites_list name="JavaPracticeMaven" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/WebMagic/JobProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/processor/PageProcessor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/downloader/HttpClientGenerator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#6581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.4/webmagic-core-0.7.4.jar!/us/codecraft/webmagic/processor/PageProcessor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="433" column="17" lean-forward="true" selection-start-line="433" selection-start-column="17" selection-end-line="433" selection-end-column="17" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2781">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,7 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>OBTAIN_REMOTE_BINARY_SERVLET</find>
       <find>updateTableAuditFlag</find>
       <find>empty</find>
       <find>httpcomponents</find>
@@ -88,6 +172,7 @@
       <find>keyFormat</find>
       <find>isJavaLanguageInterface</find>
       <find>URL</find>
+      <find>buildSSLConnectionSocketFactory</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -102,20 +187,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ComposeSum_39/ComposeSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/ValidateBracket_20/ValidateBracket.java" />
-        <option value="$PROJECT_DIR$/ReadMe.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/common/po/Gps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/fanshe/ReflectTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/common/utils/ReflectUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/StringSplice/StringIndexOf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/MyConverter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/conver/DateSingleValueConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/xstream/XStreamTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/common/utils/BeanCopyUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/listFile/ListTest2.java" />
@@ -153,6 +228,16 @@
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/BlackAnimalFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/AbstractFactory/AbstractFactoryMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/设计模式.md" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/test/RiskDangerResponseVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/test/ArgsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptileGetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptilePostTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptilePoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/reptile/JsoupTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/javaPractice/reptile/WebMagic/JobProcessor.java" />
       </list>
     </option>
   </component>
@@ -183,11 +268,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="15" />
-    <option name="width" value="1740" />
-    <option name="height" value="945" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="155" />
+    <option name="y" value="26" />
+    <option name="width" value="1698" />
+    <option name="height" value="998" />
   </component>
   <component name="ProjectId" id="1nUgQiUmblFT5C3g5hKRlD6mB9f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -196,8 +281,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,7 +323,28 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="shejimoshi" type="462c0819:PsiDirectoryNode" />
+              <item name="reptile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPracticeMaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPracticeMaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,18 +365,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36873156" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaPractice.test" />
       <recent name="javaPractice.lambda" />
       <recent name="javaPractice.simple.json" />
       <recent name="javaPractice.LeetCode.suanfa.PrintOrder_1114" />
       <recent name="com.common.utils.map" />
-      <recent name="javaPractice.simple.jiandanpaixu" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\FileWorkspace\eclipse_workspace\JavaPracticeMaven\src\main\java\javaPractice\shejimoshi" />
@@ -292,13 +398,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryMain">
-    <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.shejimoshi.AbstractFactory.AbstractFactoryMain" />
+  <component name="RunManager" selected="Application.JobProcessor">
+    <configuration name="ArgsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.test.ArgsTest" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.shejimoshi.AbstractFactory.*" />
+          <option name="PATTERN" value="javaPractice.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +412,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.array.arrayUtils.ArrayUtilsTest" />
+    <configuration name="JobProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.reptile.WebMagic.JobProcessor" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.simple.array.arrayUtils.*" />
+          <option name="PATTERN" value="javaPractice.reptile.WebMagic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,38 +425,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.shejimoshi.FactoryMethod.FactoryMethodMain" />
+    <configuration name="JsoupTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.reptile.JsoupTest" />
       <module name="JavaPracticeMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPractice.shejimoshi.FactoryMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.LeetCode.suanfa.two.GenerateBracket_22.GenerateBracket" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.LeetCode.suanfa.two.GenerateBracket_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenerateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPractice.simple.fileOperate.image.main.GenerateImage" />
-      <module name="JavaPracticeMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPractice.simple.fileOperate.image.main.*" />
+          <option name="PATTERN" value="javaPractice.reptile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,21 +451,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReptileGetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.reptile.ReptileGetTest" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.reptile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReptilePostTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPractice.reptile.ReptilePostTest" />
+      <module name="JavaPracticeMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPractice.reptile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ListRemoveTest" />
-      <item itemvalue="Application.GenerateImage" />
-      <item itemvalue="Application.ArrayUtilsTest" />
-      <item itemvalue="Application.GenerateBracket" />
-      <item itemvalue="Application.FactoryMethodMain" />
-      <item itemvalue="Application.AbstractFactoryMain" />
+      <item itemvalue="Application.ArgsTest" />
+      <item itemvalue="Application.ReptileGetTest" />
+      <item itemvalue="Application.ReptilePostTest" />
+      <item itemvalue="Application.JsoupTest" />
+      <item itemvalue="Application.JobProcessor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractFactoryMain" />
-        <item itemvalue="Application.FactoryMethodMain" />
-        <item itemvalue="Application.GenerateBracket" />
-        <item itemvalue="Application.ArrayUtilsTest" />
-        <item itemvalue="Application.GenerateImage" />
+        <item itemvalue="Application.JobProcessor" />
+        <item itemvalue="Application.JsoupTest" />
+        <item itemvalue="Application.ReptilePostTest" />
+        <item itemvalue="Application.ReptileGetTest" />
+        <item itemvalue="Application.ArgsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -503,14 +609,27 @@
       <workItem from="1619147342328" duration="2402000" />
       <workItem from="1620266080874" duration="635000" />
       <workItem from="1620270930336" duration="1031000" />
+      <workItem from="1620643534976" duration="1198000" />
+      <workItem from="1620700128992" duration="613000" />
+      <workItem from="1620701526371" duration="13427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319901000" />
+    <option name="totallyTimeSpent" value="335139000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="12" width="1392" height="756" extended-state="0" />
+    <frame x="124" y="21" width="1358" height="798" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.1495935" side_tool="true" weight="0.25962263" />
       <window_info id="Image Layers" order="1" />
@@ -519,20 +638,20 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5007657" side_tool="true" weight="0.24851191" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.8504065" visible="true" weight="0.27511245" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.8504065" weight="0.24461539" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4032258" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" weight="0.3868066" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6300268" weight="0.540146" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65572673" visible="true" weight="0.19003116" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6300268" weight="0.34423676" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.38785046" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.339404" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.36414254" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.34427327" side_tool="true" weight="0.32210836" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.24633431" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49771342" weight="0.5373832" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32991204" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.04398827" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -541,7 +660,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32841823" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4975" weight="0.34450403" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.4975" weight="0.34384614" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -825,6 +944,24 @@
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/test/ArgsTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptileGetTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptileGetTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -832,6 +969,10 @@
         <watch expression="fieldName" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaPracticeMaven$LongestPre.ic" NAME="LongestPre Coverage Results" MODIFIED="1615544098821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -845,274 +986,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/test/UpdateData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Encoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Randoms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Captcha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="7" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/Quant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/RomanToInterger_13/RomanToInterger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpPostSend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/jre/lib/rt.jar!/sun/net/www/protocol/https/HttpsURLConnectionImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/CallWebPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2349">
-          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/GifCaptcha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/map/MapUpdate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/URL/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/awt/Graphics2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="666" column="25" selection-start-line="666" selection-start-column="25" selection-end-line="666" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1-sources.jar!/org/apache/commons/lang3/ArrayUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="4614" column="5" lean-forward="true" selection-start-line="4614" selection-start-column="5" selection-end-line="4614" selection-end-column="5" />
-          <folding>
-            <element signature="e#180872#180873#0" expanded="true" />
-            <element signature="e#180930#180931#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/array/arrayUtils/ArrayUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/captcha/SpecCaptcha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/fileOperate/image/main/GenerateImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/fileInstall/java/java8/jdk1.8.0_91/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="166" column="5" selection-start-line="166" selection-start-column="5" selection-end-line="166" selection-end-column="5" />
-          <folding>
-            <element signature="e#5687#5688#0" expanded="true" />
-            <element signature="e#5750#5751#0" expanded="true" />
-            <element signature="e#20727#20728#0" expanded="true" />
-            <element signature="e#20771#20772#0" expanded="true" />
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/MethodOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/GenerateBracket_22/GenerateBracket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/two/TwoNumDivide_29/TwoNumDivide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/chujisunanfa/shuzu/ArrayOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/LeetCode/suanfa/removeElement_27/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="67" column="7" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/singleton/Mgr03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/strategy/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/strategy/Sorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/StudentWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/shejimoshi/FactoryMethod/TeacherWork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1284,6 +1157,252 @@
         <state relative-caret-position="-573" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/test/RiskDangerResponseVo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/common/utils/AESUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/test/ArgsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="60" column="41" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/org/apache/http/util/EntityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="288" column="5" lean-forward="true" selection-start-line="288" selection-start-column="5" selection-end-line="288" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpPostSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpGetSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/HttpClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="96" column="47" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/client/methods/HttpPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/org/apache/http/NameValuePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/client/entity/UrlEncodedFormEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6-sources.jar!/org/apache/http/message/BasicNameValuePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="106" column="58" lean-forward="true" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/http/ApacheHttpClientExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/simple/exam/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptileGetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptilePostTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/ReptilePoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.4/webmagic-core-0.7.4.jar!/us/codecraft/webmagic/downloader/HttpClientGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.4/webmagic-core-0.7.4.jar!/us/codecraft/webmagic/Spider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/JsoupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.3/jsoup-1.10.3.jar!/org/jsoup/Jsoup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.3/jsoup-1.10.3.jar!/org/jsoup/nodes/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="400" column="35" selection-start-line="400" selection-start-column="35" selection-end-line="400" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0.1/commons-io-2.0.1-sources.jar!/org/apache/commons/io/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="1322" column="25" selection-start-line="1322" selection-start-column="25" selection-end-line="1322" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/conn/ssl/SSLConnectionSocketFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2781">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="433" column="17" lean-forward="true" selection-start-line="433" selection-start-column="17" selection-end-line="433" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/downloader/HttpClientGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#6581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.4/webmagic-core-0.7.4.jar!/us/codecraft/webmagic/processor/PageProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/processor/PageProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaPractice/reptile/WebMagic/JobProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1326,7 +1445,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
